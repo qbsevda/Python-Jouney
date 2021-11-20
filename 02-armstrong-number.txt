@@ -1,10 +1,14 @@
 # I will add my solutions here.
 
+
 #get a number from user sample: 371
 
-# identify the length of the number (3)
+#Convert number to a string
+
+# identify the length of the input (3)
 
 # you get every number one by one
+# string[0] string[1] string[2]
 # separate the numbers 3 - 7 - 1
 
 #create a loop through the numbers and take the power of each item of the length  3**3 + 7**3 + 1**3
