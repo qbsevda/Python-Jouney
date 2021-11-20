@@ -11,6 +11,6 @@
 # string[0] string[1] string[2]
 # separate the numbers 3 - 7 - 1
 
-#create a loop through the numbers and take the power of each item of the length  3**3 + 7**3 + 1**3
+#create a loop through the numbers and take the power of each item of the length of the number 3**3 + 7**3 + 1**3
 
 #check if the result is equal to given number, it is an Armstrong number 371 = 3**3 + 7**3 + 1**3
